@@ -1,6 +1,11 @@
-# Biswajit-Majumder-Beats-headphone-ecommerce-fitst-webbuild
-THIS IS MY FIRST WEBSITE DEVELOPMENT 
 
-DEMO
+# BEATS HEADPHONE E-STORE WEBPAGE 
 
-headphonebybiswajit.netlify.app
+This headphone website is my first development and I am really happy to complete it. I learned so much from this.
+
+
+
+## Demo
+
+https://headphonebybiswajit.netlify.app/#products
+
