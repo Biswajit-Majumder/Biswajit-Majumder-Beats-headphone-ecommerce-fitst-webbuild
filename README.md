@@ -6,6 +6,5 @@ This headphone website is my first development and I am really happy to complete
 
 
 ## Demo
-
-https://headphonebybiswajit.netlify.app/#products
+https://headphonebybiswajit.netlify.app/#home
 
